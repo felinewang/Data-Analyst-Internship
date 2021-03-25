@@ -1,5 +1,8 @@
 # Data-Analyst-Internship
 Internship Code Sample
+* Extract
+
+After selecting the needed fields of data from NoSQL database and convert the data into csv file, extract the raw data and transform relevent data to structured and cleaned format to make further analysis easier. Due to the large volume of the data, the extraction and transformation process is seperated into multiple phase in case something interupts the process.
 
 * All Script
 
@@ -19,4 +22,4 @@ Using Web scraping techniques to collect user reviews of the product's mobile pl
 
 * Annotated Code
 
-Annotated and cleaner version of script
+Annotated and cleaner version of script.
